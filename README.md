@@ -1,2 +1,2 @@
-# TryNetCoreEntityframwork
+# TryNetCoreEntityframework
 ASP.NET CoreのEntityframeworkを試す。
